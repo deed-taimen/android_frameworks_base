@@ -5083,6 +5083,18 @@ public final class Settings {
                 "lockscreen_quick_unlock_control";
 
         /**
+        * Select which lockscreen date style to display
+        * @hide
+        */
+        public static final String LOCKSCREEN_DATE_SELECTION = "lockscreen_date_selection";
+
+        /**
+        * Select which lockscreen clock style to display
+        * @hide
+        */
+        public static final String LOCKSCREEN_CLOCK_SELECTION = "lockscreen_clock_selection";
+
+        /**
          * --- AICP System settings end
          *  Add new system settings above this comment
          */
